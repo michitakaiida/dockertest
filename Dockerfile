@@ -1,5 +1,5 @@
 FROM java:7
-MAINTAINER Michi
+MAINTAINER Micchi
 ENV FOO bar
 COPY src /home/root/javaHelloWorld/src
 WORKDIR /home/root/javaHelloWorld
